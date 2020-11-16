@@ -8,6 +8,7 @@ def key_for_min_value(name_hash)
     if value <= 1   
       return key
     end
+    # i want this to loop through again?
   end
   
 end
