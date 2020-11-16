@@ -10,5 +10,5 @@ def key_for_min_value(name_hash)
     end
     # i want this to loop through again?
   end
-  
+
 end
